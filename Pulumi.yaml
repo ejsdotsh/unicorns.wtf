@@ -1,0 +1,7 @@
+name: unicorns.wtf
+description: my personal infrastructure...as code
+runtime: go
+config:
+  pulumi:tags:
+    value:
+      pulumi:template: go
