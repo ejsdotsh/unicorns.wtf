@@ -1,0 +1,5 @@
+environment:
+  - unicorns.wtf/esc
+config:
+  pulumi:tags:
+    pulumi:template: go

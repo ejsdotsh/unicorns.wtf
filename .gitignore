@@ -20,7 +20,8 @@
 !docs/**/*.md
 
 # track
-!Pulumi.yaml
+!*.yaml
+!*.ncl
 !*.go
 
 # but not these files or (sub)directories
